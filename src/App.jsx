@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   
   return (
-    <div>muqeet</div>
+    <div className='bg-amber-500' >muqeet</div>
   )
 }
 
